@@ -2,6 +2,8 @@
 @import "tailwindcss";
 @theme {
   --color-primary: ##EE4266;
+  --color-primary-dark: #DC1B44;
+  --color-primary-light: #E15573;
   --font-roboto: Roboto, sans-serif;
 }
 
